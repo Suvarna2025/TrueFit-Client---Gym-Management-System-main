@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Prata&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+  font-family: "Outfit", serif;
+  @apply bg-white text-black transition-colors duration-300 dark:bg-gray-900 dark:text-white;
+}
+.font-prata{
+  font-family: "Prata", serif;
+}
+
+.navbar a.active hr{
+  display: block;
+  background-color: blue;
+  @apply dark:bg-blue-400
+}
+.navbar a.active{
+  color: blue;
+  @apply dark:text-blue-400
+}
+
+.dashboard-link a.active{
+  background-color: rgb(245, 245, 255);
+  border-color: blue;
+  @apply dark:bg-gray-700 dark:border-blue-500;
+}
