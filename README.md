@@ -63,9 +63,9 @@ TrueFit is ideal for:
 
 ## Contact Information
 For any queries or support, reach out to us:
-- **Email**: mdalimuzzaman437@gmail.com
-- **Phone**: +880 1405-742311
-- **Address**: 23/3, Kanam Homes, Hospital Road, Nalchity, Jhalokati
+- **Email**: suvarnaravi20@gmail.com
+- **Phone**: +880 3344 443
+
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
